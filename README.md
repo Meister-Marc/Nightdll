@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nightdll
+- 👋 Hi, I’m @Marc Meister
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript
 - 📫 You can reach me on GitHub.
